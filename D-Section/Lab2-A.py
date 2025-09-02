@@ -22,6 +22,7 @@ else:
 #creating variable and taking i/p
 
 number= int(input('enter a no: '))
+string=f"ashwin"
 
 #printing if even or odd
 
@@ -29,21 +30,3 @@ if number % 2 == 0:
     print(f"The no {number} is Even")
 else:
     print(f"The no {number} is Odd")
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
